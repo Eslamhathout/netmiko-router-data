@@ -1,7 +1,7 @@
 # netmiko-router-data
 
 ## Description: 
-A project to retrieve router info such as:
+A project to retrieve a Cisco IOSv router data such as:
 - Hostname
 - Model
 - Uptime of each device
@@ -25,7 +25,6 @@ pip3 install cryptography
 pip3 install paramiko
 pip3 install netmiko
 ```
-
 
 ## Usage: 
 To use the attached script, you need to build a simple network on GNS3 and use a Docker Ubuntu image to send the file's commands to the router.
