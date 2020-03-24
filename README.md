@@ -2,15 +2,15 @@
 
 ## Description: 
 A project to retrieve router info such as:
-*Hostname
-*Model
-*Uptime of each device
-*Current software version
-*Device serial number
-*MAC address for each active Ethernet interface
+- Hostname
+- Model
+- Uptime of each device
+- Current software version
+- Device serial number
+- MAC address for each active Ethernet interface
 
 ## Installation:
-To start using the attached script, you need to setup Python, GNS3, and Netmiko. Here are a list of commands to assest installation:
+To start using the attached script, you need to setup Python, GNS3, and Netmiko. Here is a list of needed software to install on a host image:
 
 
 ```
